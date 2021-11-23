@@ -1,0 +1,17 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://rykolu.github.io" resolutions="1x" timestamp="1637625870179">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="17362596" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u118-5.png" crc="3879299253" ref="index"/>
+    <file name="u119-6.png" crc="416509624" ref="index"/>
+    <file name="u112-11.png" crc="3825447500" ref="index"/>
+    <file name="u104-4.png" crc="36665216" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4125606106" seo="true" mt="1637625532201" redirect="true"/>
+</manifest>
