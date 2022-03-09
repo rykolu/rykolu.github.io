@@ -85,28 +85,34 @@ body
 	body { text-rendering:auto; }
 }
 
+a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 a:link
 {
-	color: #0000FF;
-	text-decoration: underline;
+	text-decoration: none;
+	color: inherit;
 }
 
 a:visited
 {
-	color: #800080;
-	text-decoration: underline;
+	text-decoration: none;
+	color: inherit;
 }
 
 a:hover
 {
-	color: #0000FF;
-	text-decoration: underline;
+	color: #0071BC;
+	text-decoration: none;
 }
 
 a:active
 {
-	color: #EE0000;
-	text-decoration: underline;
+	text-decoration: none;
+	color: inherit;
 }
 
 a.nontext /* used to override default properties of 'a' tag */
