@@ -1,16 +1,16 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://rykolu.github.io" resolutions="1x" timestamp="1646820556725">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://rykolu.github.io" resolutions="1x" timestamp="1646871122481">
   <folder name="css">
     <file name="site_global.css" crc="533279488"/>
-    <file name="master_portfolio-master.css" crc="233335852" ref="cpw-sl:models"/>
-    <file name="master_b-master.css" crc="497503156" ref="githubblogs:cpw-sl:models:readme:sxlfileloading:portfolio"/>
     <file name="master_blog-master.css" crc="428420208" ref="sxlfileloading"/>
-    <file name="githubblogs.css" crc="4222045788" ref="githubblogs"/>
-    <file name="cpw-sl.css" crc="466546720" ref="cpw-sl"/>
+    <file name="master_portfolio-master.css" crc="233335852" ref="models:cpw-sl"/>
+    <file name="master_b-master.css" crc="497503156" ref="models:sxlfileloading:cpw-sl:readme:portfolio:githubblogs"/>
     <file name="models.css" crc="100337416" ref="models"/>
-    <file name="readme.css" crc="3866450054" ref="readme"/>
-    <file name="index.css" crc="191900249" ref="index"/>
     <file name="sxlfileloading.css" crc="3923099783" ref="sxlfileloading"/>
-    <file name="portfolio.css" crc="4222368858" ref="portfolio"/>
+    <file name="cpw-sl.css" crc="491885057" ref="cpw-sl"/>
+    <file name="readme.css" crc="3831582715" ref="readme"/>
+    <file name="portfolio.css" crc="4259158879" ref="portfolio"/>
+    <file name="index.css" crc="4072777955" ref="index"/>
+    <file name="githubblogs.css" crc="4010177093" ref="githubblogs"/>
   </folder>
   <folder name="assets">
     <file name="2022resume-ryko_kohne.pdf" crc="4051258629" seo="true" mt="1646818496000"/>
@@ -26,7 +26,6 @@
   </folder>
   <folder name="images">
     <file name="u133-8.png" crc="4172323640" ref="index"/>
-    <file name="u1404-6.png" crc="129898589" ref="index"/>
     <file name="u112-118.png" crc="86409749" ref="index"/>
     <file name="giticon.png" crc="3805351656" seo="true" ref="index:sxlfileloading"/>
     <file name="linicon.png" crc="342066477" seo="true" ref="index"/>
@@ -64,7 +63,6 @@
     <file name="u1239-6.png" crc="795466" ref="sxlfileloading"/>
     <file name="u959-7.png" crc="495416708" ref="portfolio"/>
     <file name="u979-5.png" crc="3818031089" ref="portfolio"/>
-    <file name="u1403-6.png" crc="129898589" ref="portfolio"/>
     <file name="u977-306.png" crc="266781641" ref="portfolio"/>
     <file name="u963-7.png" crc="4062980806" ref="portfolio"/>
     <file name="u1013-474.png" crc="167063016" ref="portfolio"/>
@@ -90,16 +88,16 @@
     <file name="u1364-54.png" crc="43143438" ref="readme"/>
     <file name="u1367-46.png" crc="4171477186" ref="readme"/>
     <file name="u1371-34.png" crc="4155733548" ref="readme"/>
-    <file name="u1378-38.png" crc="17633667" ref="readme"/>
-    <file name="u1355-7.png" crc="4062980806" ref="readme"/>
+    <file name="u1378-40.png" crc="230043133" ref="readme"/>
     <file name="u1400-26.png" crc="3824255579" ref="readme"/>
     <file name="u1399-13.png" crc="3852498157" ref="readme"/>
+    <file name="u1355-7.png" crc="4062980806" ref="readme"/>
   </folder>
-  <file name="index.html" crc="3876621874" seo="true" mt="1646820392049" redirect="true"/>
-  <file name="githubblogs.html" crc="4043712946" seo="true" mt="1646807574295" redirect="true"/>
-  <file name="sxlfileloading.html" crc="3796519452" seo="true" mt="1646811264324" redirect="true"/>
-  <file name="portfolio.html" crc="3966536339" seo="true" mt="1646819167292" redirect="true"/>
-  <file name="cpw-sl.html" crc="3901508078" seo="true" mt="1646807238214" redirect="true"/>
-  <file name="models.html" crc="3974317389" seo="true" mt="1646807238214" redirect="true"/>
-  <file name="readme.html" crc="3993163069" seo="true" mt="1646820484768" redirect="true"/>
+  <file name="index.html" crc="3961405862" seo="true" mt="1646870655518" redirect="true"/>
+  <file name="githubblogs.html" crc="4043712946" seo="true" mt="1646870655519" redirect="true"/>
+  <file name="sxlfileloading.html" crc="3796519452" seo="true" mt="1646870655520" redirect="true"/>
+  <file name="portfolio.html" crc="105361419" seo="true" mt="1646870726385" redirect="true"/>
+  <file name="cpw-sl.html" crc="3901508078" seo="true" mt="1646870655523" redirect="true"/>
+  <file name="models.html" crc="3974317389" seo="true" mt="1646870655524" redirect="true"/>
+  <file name="readme.html" crc="177531435" seo="true" mt="1646871079142" redirect="true"/>
 </manifest>

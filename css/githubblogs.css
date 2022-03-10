@@ -1,7 +1,7 @@
 .version.githubblogs /* version checker */
 {
-	color: #0000FB;
-	background-color: #A74E5C;
+	color: #0000EF;
+	background-color: #067245;
 }
 
 .html
@@ -61,8 +61,8 @@
 	width: 700px;
 	min-height: 204px;
 	background-color: transparent;
-	color: #5EA4D9;
 	font-size: 25px;
+	color: #5EA4D9;
 	position: relative;
 	margin-right: -10000px;
 	left: 34px;
@@ -137,8 +137,8 @@
 	width: 243px;
 	min-height: 401px;
 	background-color: transparent;
-	font-size: 25px;
 	line-height: 30px;
+	font-size: 25px;
 	margin-top: 31px;
 	position: relative;
 }

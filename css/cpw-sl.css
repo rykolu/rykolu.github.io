@@ -1,7 +1,7 @@
 .version.cpw_sl /* version checker */
 {
-	color: #00001B;
-	background-color: #CEF020;
+	color: #00001D;
+	background-color: #519201;
 }
 
 .html
@@ -57,8 +57,8 @@
 	width: 1004px;
 	min-height: 204px;
 	background-color: transparent;
-	color: #5EA4D9;
 	font-size: 25px;
+	color: #5EA4D9;
 	margin-top: 82px;
 	position: relative;
 }
